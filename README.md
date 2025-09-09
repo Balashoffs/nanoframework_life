@@ -6,5 +6,5 @@
 
 ### Оглавление (TO DO)
  1. [-] Что есть Nanoframework 
- 2. [X] CLI Nanoff (редактируемая) 
-    - [+] ESP32
+ 2. [-] CLI Nanoff (редактируемая) [nanoff](1.2%20nanoff.md)
+    - [X] ESP32
